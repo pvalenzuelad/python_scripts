@@ -1,0 +1,4 @@
+Temporary file for process status.
+output_dir=downloaded_htmls\20250801201848
+
+output_dir_htmls=downloaded_htmls\20250801201848\htmls
